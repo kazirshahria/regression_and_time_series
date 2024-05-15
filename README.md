@@ -1,2 +1,11 @@
-# regression_and_time_series
-Conducting predictive analysis on Python using regression or time series.
+# Regression Analysis and Time Series Analysis
+
+## Overview
+A space for me to conduct predictive analysis on data using Python and statistical methods such as regression and time series.
+
+## Tracker
+| Date       | Task                |
+| :--------  | :-------            |
+|            |                     |
+|            |                     |
+|            |                     |
